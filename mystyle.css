@@ -1,0 +1,25 @@
+ body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+p {
+  border-style: double;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 60px;
+  margin-left: 40px;
+  
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 300px;
+}
+p::first-line {
+	text-indent: 50px;
+	font-size: 40px;
+    font-family: serif;
+}
