@@ -18,8 +18,3 @@ p {
   padding-bottom: 10px;
   padding-left: 300px;
 }
-p::first-line {
-	text-indent: 50px;
-	font-size: 40px;
-    font-family: serif;
-}
